@@ -1,0 +1,1 @@
+Mojo::DOM can be used to parse retrieved HTML/XML.
