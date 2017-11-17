@@ -8,14 +8,18 @@
 ===== API =====
 # Mojolicious::Controller
 # param, stash, res, req, render
+# respond_to -> can use for truly RESTful content negotiation
 # http://mojolicious.org/perldoc/Mojolicious/Controller#param
 
 # Mojolicious::Command::get
 # http://mojolicious.org/perldoc/Mojolicious/Command/get
 
 # Mojolicious::Plugin::DefaultHelpers
-# title, layout, url_for, link_to,
+# title, layout, url_for, link_to, session
 # http://mojolicious.org/perldoc/Mojolicious/Plugin/DefaultHelpers
+
+# Mojolicious::Plugin::HeaderCondition
+# http://mojolicious.org/perldoc/Mojolicious/Plugin/HeaderCondition
 
 # Mojolicious::Plugin::TagHelpers
 # http://mojolicious.org/perldoc/Mojolicious/Plugin/TagHelpers
@@ -29,6 +33,7 @@
 
 # Mojolicious
 # start
+# types -> can extend or change MIME type mappings
 # http://mojolicious.org/perldoc/Mojolicious#start
 
 # Mojolicious::Command::generate::lite_app
@@ -36,6 +41,7 @@
 
 # Mojolicious::Lite
 # under
+# group -> allow nesting of routes generated with "under"
 # http://mojolicious.org/perldoc/Mojolicious/Lite
 # http://mojolicious.org/perldoc/Mojolicious/Lite#under
 
