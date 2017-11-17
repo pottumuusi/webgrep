@@ -1,0 +1,43 @@
+===== Tutorials =====
+# "Embedded Perl" in Mojolicious::Guides::Rendering
+# http://mojolicious.org/perldoc/Mojolicious/Guides/Rendering#Embedded-Perl
+
+# Deployment, Mojolicious::Guides::Cookbook
+# http://mojolicious.org/perldoc/Mojolicious/Guides/Cookbook#DEPLOYMENT
+
+===== API =====
+# Mojolicious::Controller
+# param, stash, res, req, render
+# http://mojolicious.org/perldoc/Mojolicious/Controller#param
+
+# Mojolicious::Command::get
+# http://mojolicious.org/perldoc/Mojolicious/Command/get
+
+# Mojolicious::Plugin::DefaultHelpers
+# title, layout, url_for, link_to,
+# http://mojolicious.org/perldoc/Mojolicious/Plugin/DefaultHelpers
+
+# Mojolicious::Plugin::TagHelpers
+# http://mojolicious.org/perldoc/Mojolicious/Plugin/TagHelpers
+
+# Mojo::JSON
+# http://mojolicious.org/perldoc/Mojo/JSON
+
+# Mojo::Message
+# json,
+# http://mojolicious.org/perldoc/Mojo/Message#json
+
+# Mojolicious
+# start
+# http://mojolicious.org/perldoc/Mojolicious#start
+
+# Mojolicious::Command::generate::lite_app
+# http://mojolicious.org/perldoc/Mojolicious/Command/generate/lite_app
+
+# Mojolicious::Lite
+# under
+# http://mojolicious.org/perldoc/Mojolicious/Lite
+# http://mojolicious.org/perldoc/Mojolicious/Lite#under
+
+# Mojolicious::Command::routes
+# http://mojolicious.org/perldoc/Mojolicious/Command/routes
