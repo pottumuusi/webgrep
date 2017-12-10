@@ -1,1 +1,13 @@
 Mojo::DOM can be used to parse retrieved HTML/XML.
+
+==============
+ Architecture
+==============
+Write a web engine.
+The cli program will be just an interface to this engine.
+
+Thus engine and user interface will be separated from each other.
+
+This makes it possible to build other browsers around the core engine. Even
+user modifiable GUIs could be made. Or own interface could be simply written
+from scratch.
