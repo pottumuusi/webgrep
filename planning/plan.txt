@@ -3,7 +3,7 @@ Mojo::DOM can be used to parse retrieved HTML/XML.
 ==============
  Architecture
 ==============
-Write a web engine.
+Write a web engine. Or better still, use pre-existing one such as Spidermonkey.
 The cli program will be just an interface to this engine.
 
 Thus engine and user interface will be separated from each other.
